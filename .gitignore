@@ -1,0 +1,28 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+env/
+venv/
+
+# Database
+*.sqlite3
+
+# Static files
+*.css
+*.js
+
+# Secrets
+.env
+.secret
+settings.py
+
+# IDE
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
