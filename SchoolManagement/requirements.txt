@@ -3,4 +3,4 @@ Django==5.0.6
 django-widget-tweaks==1.4.8
 pytz==2020.1
 sqlparse==0.3.1
-pymysql==1.1.0
+mysqlclient==2.2.0
